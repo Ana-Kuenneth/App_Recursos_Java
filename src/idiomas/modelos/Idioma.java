@@ -27,5 +27,9 @@ public class Idioma {
     }
 
     //Metodos
+    public void mostrar(){
+        System.out.println("Idioma: "+this.nombre);
+    }
+    
     //toString
 }

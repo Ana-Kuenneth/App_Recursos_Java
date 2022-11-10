@@ -26,5 +26,9 @@ public class Tipo {
     }
     
     //Metodos
+    public void mostrar(){
+        System.out.println("Tipo: "+this.nombre);
+    }
+    
     //toString
 }

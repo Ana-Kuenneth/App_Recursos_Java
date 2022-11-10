@@ -26,5 +26,8 @@ public class Lugar {
     }
     
     //Metodos
+    public void mostrar(){
+        System.out.println("Lugar: "+this.nombre);
+    }
     //toString
 }

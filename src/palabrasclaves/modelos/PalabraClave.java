@@ -26,5 +26,9 @@ public class PalabraClave {
     }
     
     //Metodos
+    public void mostrar(){
+        System.out.println("Palabra Clave: "+this.nombre);
+    }
+    
     //toString
 }

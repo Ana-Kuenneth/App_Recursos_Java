@@ -130,19 +130,19 @@ public class ControladorPrincipal {
         }
         
         for(Idioma idioma : idiomas){
-            idioma.verNombre();
+            idioma.mostrar();
         }
         
         for(Lugar lugar : lugares){
-            System.out.println(lugar.verNombre());
+            lugar.mostrar();
         }
         
         for(PalabraClave palabraC : palabrasClaves){
-            System.out.println(palabraC.verNombre());
+            palabraC.mostrar();
         }
         
         for(Tipo tipo : tipos){
-            System.out.println(tipo.verNombre());
+            tipo.mostrar();
         }
     }
 }
