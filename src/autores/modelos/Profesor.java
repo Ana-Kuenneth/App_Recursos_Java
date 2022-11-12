@@ -13,16 +13,15 @@ public class Profesor {
     private String apellidos;
     private String nombres;
     private String clave;
-    private String cargo;
+    private Cargo cargo;
     
     //Constructor
-    public Profesor(int dni, String apellidos, String nombres, String clave, String cargo){    
+    public Profesor(int dni, String apellidos, String nombres, String clave, Cargo cargo){    
         this.dni = dni;
         this.apellidos = apellidos;
         this.nombres = nombres;
         this.clave = clave;
         this.cargo = cargo;
-        
     }
 
     //Metodos get/set
@@ -58,11 +57,11 @@ public class Profesor {
         this.clave = clave;
     }
 
-    public String verCargo() {
+    public Cargo verCargo() {
         return cargo;
     }
 
-    public void asignarCargo(String cargo) {
+    public void asignarCargo(Cargo cargo) {
         this.cargo = cargo;
     }
     

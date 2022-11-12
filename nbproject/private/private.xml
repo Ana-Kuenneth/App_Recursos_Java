@@ -3,14 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/principal/controladores/ControladorPrincipal.java</file>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/idiomas/modelos/Idioma.java</file>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/palabrasclaves/modelos/PalabraClave.java</file>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/grupos/modelos/Grupo.java</file>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/lugares/modelos/Lugar.java</file>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/tipos/modelos/Tipo.java</file>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/autores/modelos/Profesor.java</file>
-            <file>file:/home/estudiante/NetBeansProjects/Proyecto-Individual_AK_ProgramacionII/src/autores/modelos/Alumno.java</file>
+            <file>file:/C:/Users/anaro/Desktop/Anita%20HP/PROGRAMACION%20II/Proyecto-Individual_ProgramacionII/src/autores/modelos/Profesor.java</file>
+            <file>file:/C:/Users/anaro/Desktop/Anita%20HP/PROGRAMACION%20II/Proyecto-Individual_ProgramacionII/src/autores/modelos/Cargo.java</file>
+            <file>file:/C:/Users/anaro/Desktop/Anita%20HP/PROGRAMACION%20II/Proyecto-Individual_ProgramacionII/src/publicaciones/modelos/Publicacion.java</file>
         </group>
     </open-files>
 </project-private>
